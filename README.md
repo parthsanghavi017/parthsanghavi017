@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @parthsanghavi017
-- 👀 I’m interested in learning about various appliations of phython mainly in the field of Biotechnology, Chemistry and Geology 
-- 🌱 I’m currently learning Bachelor's in Biotechnology, Chemisty and Zoology
-- 💞️ I’m looking to collaborate on nothing actually, I still want to explore the above mentioned domains before I collaborate. 
+- 👀 I’m interested in learning about various appliations of python in the field of Bioinformatics 
+- 🌱 I’m currently pursuing Master's in Bioinformatics
+- 💞️ I’m looking to collaborate in Drug Discovery and Bioinformatics 
 - 📫 How to reach me? Feel free to mail me at parth.sanghavi017@gmail.com
 
 <!---
